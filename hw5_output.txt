@@ -1,0 +1,69 @@
+# The mean of age:
+39.21
+
+# The standard deviation of age:
+14.04
+
+# The median of age:
+39.0
+
+# The mean of BMI:
+30.67
+
+# The standard deviation of BMI:
+6.1
+
+# The median of BMI:
+30.4
+
+# The mean of BMI grouped by sex:
+b'female' b'30.3797583081571'
+b'male' b'30.94526627218935'
+
+# The standard deviation of BMI grouped by sex:
+b'female' b'6.041939120876393'
+b'male' b'6.135802254619795'
+
+# The median of BMI grouped by sex:
+b'female' b'30.1'
+b'male' b'30.7'
+
+# The mean of BMI for non-smokers NO and smokers YES:
+b'no' b'30.653195488721803'
+b'yes' b'30.713138686131387'
+
+# The standard deviation of BMI for non-smokers NO and smokers YES:
+b'no' b'6.039922721408043'
+b'yes' b'6.309294702080452'
+
+# The median of BMI for non-smokers NO and smokers YES:
+b'no' b'30.35'
+b'yes' b'30.45'
+
+# The mean of BMI grouped by region:
+b'northeast' b'29.176234567901236'
+b'northwest' b'29.201846153846155'
+b'southeast' b'33.35934065934066'
+b'southwest' b'30.59661538461538'
+
+# The standard deviation of BMI grouped by region:
+b'northeast' b'5.927678070121773'
+b'northwest' b'5.128232231723248'
+b'southeast' b'6.469985274742114'
+b'southwest' b'5.683072375159565'
+
+# The median of BMI grouped by region:
+b'northeast' b'28.9'
+b'northwest' b'28.9'
+b'southeast' b'33.3'
+b'southwest' b'30.3'
+
+# The mean of BMI of those who have more than 2 children:
+30.68
+
+# The standard deviation of BMI of those who have more than 2 children:
+5.76
+
+# The median of BMI of those who have more than 2 children:
+30.35
+
